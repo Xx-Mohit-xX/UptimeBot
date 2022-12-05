@@ -1,0 +1,13 @@
+node_modules
+.DS_Store
+dist
+dist-ssr
+*.local
+.idea
+
+/data
+!/data/.gitkeep
+.vscode
+
+/private
+/out
